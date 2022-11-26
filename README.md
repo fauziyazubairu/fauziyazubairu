@@ -1,4 +1,4 @@
-I am Data Scientist and i love what i do
+
 
 <!---
 fauziyazubairu/fauziyazubairu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
